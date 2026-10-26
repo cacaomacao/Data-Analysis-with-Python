@@ -6,30 +6,28 @@
 
 Для успешного освоения материалов курса необходимо обладать следующими знаниями:
 
-* Программирование на Python (рекомендуем [МФК “Основы программирования и анализа данных на Python”](https://teach-in.ru/course/python-programming-and-data-analysis-basics)).
-* Линейная алгебра, оптимизация, статистика (рекомендуем [факультатив "Математика для анализа данных"](https://teach-in.ru/course/mathematics-for-data-analysis-p1))
-* Основы машинного обучения (рекомендуем [МФК “Машинное обучение для решения прикладных задач”](https://youtube.com/playlist?list=PLcsjsqLLSfNAri43suoDrZBVrUsqDIonL)).
+* Программирование на Python (рекомендуем [МФК “Основы программирования и анализа данных на Python”](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024)).
+* Линейная алгебра, оптимизация, статистика (рекомендуем [факультатив "Математика для анализа данных"](https://teach-in.ru/course/mathematics-for-data-analysis-artamonov))
+* Основы машинного обучения (рекомендуем [МФК “Машинное обучение для решения прикладных задач”](https://teach-in.ru/course/introduction-to-dl-2024)).
 
 Продолжительность: 1 семестр (12 лекций).
 
 ## 📋 Содержание
 
-Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
-|:----:|----|:----:|:----:|:----:|
-|15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/watch?v=UVTycaA9tGU) | [Конспект 1](https://colab.research.google.com/drive/1H8RMbqy8-FPkJ5uif8ZJxjvRcp2leKtk)|  |  |
-|22.02.2023| [Лекция 2. Pytorch. Метод обратного распространения ошибки](https://youtube.com/live/C0Ud1RmNG1g) | [Конспект 2](https://colab.research.google.com/drive/1mZhf1Wyg0grBwrDJCWYM7yaAF47Caeeu?usp=sharing) |  |  |
-|01.03.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/qvauAflpnyo) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) |  |  |
-|15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) |  |  |
-|22.03.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/natx7EVccKg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) |  |  |
-|29.03.2023| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/yZ1bHd6-j9E) | [Конспект 6](https://colab.research.google.com/drive/16V-CiuxFBXkUkQDJh4xOI0ERf9MXDtox?usp=sharing) |  |  |
-|05.04.2023| [Лекция 7. Языковое моделирование и RNN](https://youtube.com/live/AvBmhXx-bKg) | [Конспект 7](https://colab.research.google.com/drive/18RBcmlZyiB2h0Ss5U-zdsmVn6QO-QvJ3?usp=sharing) |  |  |
-|12.04.2023| [Лекция 8. Задача машинного перевода (seq2seq). Механизм Attention](https://www.youtube.com/live/oFVToNLVzKw) | [Конспект 8](https://colab.research.google.com/drive/1-Btn7xdS112ic9Qjwmhfs7EibFy2mwG2?usp=sharing) |  |  |
-|19.04.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/TW5HrbkAJKU) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) |  |  |
-|26.04.2023| [Лекция 10. Компьютерное зрение. Autoencoders & GANs](https://youtube.com/live/cJ7JhUCBxus) | [Конспект 10](https://colab.research.google.com/drive/1dnbk4DJ5uyxU_OVmHBUVLb0Xo9ZzphNV?usp=sharing) |  |  |
-|03.05.2023| [Лекция 11. Metric Learning, Image Captioning](https://youtube.com/live/GkFEWfuxDK0) | [Конспект 11](https://colab.research.google.com/drive/1uvXs3P1XsH7Mtc20kEI2D9cAPcg-cjyw?usp=sharing) |  |  |
-|10.05.2023| [Лекция 12. Что дальше?](https://youtube.com/live/gRFsKwU_XL4) | [Презентация](https://docs.google.com/presentation/d/1JqcM4B75nZVR33NzSoMDtoOd35CQpgAK8U_SQRDxaDE/edit?usp=share_link) |---|---|
-
-* [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
+Дата лекции | Запись лекции | Конспект  
+|:----:|----|:----:|
+|19.02.2025| [Лекция 1. Вводная лекция](https://rutube.ru/video/a07c58b61f3b5dcf27dc698bc364d9c4/) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC) |
+|26.02.2025| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://rutube.ru/video/private/cbc0116ec44f94e3efcdd23b2ee1c258/?p=HsyAuj4jHDrYZ7Z4zudJfg) | [Конспект 2](https://colab.research.google.com/drive/1T7ETpxt9tWJV2-Z5lZp5P0hGzwkYDUPT) | 
+|05.03.2025| [Лекция 3. Обучение по батчам, регуляризация](https://rutube.ru/video/private/a9071d18d77e198c071bf6031e4e6ebc/?p=L_h_PCvqnv2M4rbzQy16tg) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | 
+|12.03.2025| [Лекция 4. Алгоритмы обработки изображений. Свёрточные нейронные сети ](https://rutube.ru/video/884e8a653307355fca037d1e0a1ef34e/?r=wd) | [Конспект 4](https://colab.research.google.com/drive/1d6q8tlWPGfM5wwDpLxYdAP5mI98WZpKF) | 
+|19.03.2025| [Лекция 5.  Transfer Learning](https://rutube.ru/video/e2d30a4839e7ea39ba9f680dc9f4dc30/?r=wd) | [Конспект 5](https://colab.research.google.com/drive/1ku0Hk9Ti1JpEwMS537doEmRKFIIVtvZD) |
+|26.03.2025| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/217e3e1fa2f52b674fa48708f737a7fb/?r=wd) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | 
+|02.04.2025| [Лекция 7. RNN и классификация текста](https://rutube.ru/video/61159f0d7a9a851f045b34025e84a1cd/?r=wd) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7) | 
+|09.04.2025| [Лекция 8. Языковое моделирование](https://rutube.ru/video/bbe9ef92f0bb8db7232d9a778f4c41fe/) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | 
+|16.04.2025| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/d99d6a84af4baa5a36e29bb6c3966376/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | 
+|23.04.2025| [Лекция 10. Трансформеры. Большие языковые модели](https://rutube.ru/video/ea9a300773e066b2f317cc71791a7478/) | [Конспект 10](https://colab.research.google.com/drive/100RtW-tkwTnh2tLlWCFCVWnAKYDJo7EQ) |
+|30.04.2025| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://rutube.ru/video/a6177bbc28b2a815b8a7c8a9fa323619/) | [Конспект 11](https://colab.research.google.com/drive/1z4_k5bLxe5ViOmCOcbubVKTjqz_koC49 ) | 
+|07.05.2025| [Лекция 12. Что дальше?](https://rutube.ru/video/7daa8d25b2280b7755e3981e4cd52fae/) | [Презентация](https://docs.google.com/presentation/d/1SLn35V2_J5rG2TGJirL1K0FEglRjGiHH) |
 
 ## 📝 Ссылки и дополнительная литература
 
@@ -100,12 +98,7 @@ Ru:
 
 ## ❓Часто задаваемые вопросы
 
-* [Где лучше писать код на python?](./instructions/IDE-review.md)
-* [Как пользоваться Яндекс.Контестом?](./instructions/yandex_contest.md)
-* [На что обращать внимание при работе с вводом-выводом?](./instructions/input-output.md)
-* [Как использовать Google Colab в качестве среды разработки?](./instructions/GoogleColab.md)
-
-## 📞 Контакты
-* [Телеграм-канал](https://t.me/+p52yYKfqD040NGMy) с основной информацией по курсу
-* [Телеграм-чат](https://t.me/+UcXax0tW_3JhZmJi) для вопросов, связанных с курсом
-* [Телеграм-бот](https://t.me/msumfk_bot) для получения доступа к домашним заданиям, записи на консультации и вопросов, связанных с курсом
+* [Где лучше писать код на python?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/IDE-review.md)
+* [Как пользоваться Яндекс.Контестом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/yandex_contest.md)
+* [На что обращать внимание при работе с вводом-выводом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/input-output.md)
+* [Как использовать Google Colab в качестве среды разработки?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/GoogleColab.md)
